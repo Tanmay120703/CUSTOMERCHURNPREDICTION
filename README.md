@@ -23,8 +23,7 @@ This project implements a **Binary Classification** model using **PyTorch** to p
 
 ---
 
-##🧠 Model Architecture
-
+## 🧠 Model Architecture
 
 Input Layer: based on input features (preprocessed)
 
