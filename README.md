@@ -25,8 +25,8 @@ This project implements a **Binary Classification** model using **PyTorch** to p
 
 ## 🧠 Model Architecture
 
-Input Layer: based on input features (preprocessed)
+- Input Layer: based on input features (preprocessed)
 
-Hidden Layers: Linear → BatchNorm → ReLU → Dropout
+- Hidden Layers: Linear → BatchNorm → ReLU → Dropout
 
-Output Layer: Single neuron (Sigmoid or BCEWithLogitsLoss)
+- Output Layer: Single neuron (Sigmoid or BCEWithLogitsLoss)
